@@ -8,8 +8,7 @@ puts "Escribe tu apellido " # Al usar prints el textos capturadfo se escribe en 
 apellido = gets.chomp
 
 	#puts "El nombre es: #{nombre} #{apellido}"
-def saludo (nombre, apellido)
+def saludo(nombre, apellido)
 	puts "Hola: #{nombre} #{apellido}"
 end
-
-saludo (nombre apellido)
+saludo(nombre, apellido)
