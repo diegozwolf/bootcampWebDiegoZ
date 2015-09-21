@@ -19,4 +19,4 @@ end
 
 	#parabe cargar archivos en consola se usa irb require "./ejercicio7.rb"
 	# luego bebe = Bebe.new- aparecera bebe creado
-	#luego llamar la accion bebe.comer("helado") se usa parentesis ycomillas para ingresar información
+	#luego llamar la accion bebe.comer("helado") se usa parentesis y comillas para ingresar información

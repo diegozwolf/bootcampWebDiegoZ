@@ -10,8 +10,29 @@ class Humano
 		puts "El humano está saltando"		
 	end
 
-	def gritar (texto)
+	def gritar(texto)
 		puts "El humano grita: #{texto}"		
+	end
+	def parpadear
+		puts "El humano esta parpadeando"		
+	end
+	def comer(comida)
+		puts "El humano está comiendo #{comida}"
+	end
+	def cantar(cantando)
+		puts "El humano canta: #{cantando}"
+	end
+	def tomar(bebida)
+		puts "El humano bebe: #{bebida}"		
+	end
+	def dormir
+		puts "El humano está durmiendo"		
+	end
+	def nadar
+		puts el humano esta nadando		
+	end
+	def almorzar(comida)
+		puts "eL Humano está almorzando #{comida}"		
 	end
 end
 humano = Humano.new

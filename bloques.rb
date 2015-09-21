@@ -4,10 +4,11 @@ son iguales
 =end
 
 puts "Ejecutando linea número 7."
-if "diego" == "diego" #se uso 2 signos igual(=)¿Por qué? un signoigual asignará un valor
+if "diego" == "diego" #se uso 2 signos igual(=)¿Por qué? un signo igual asignará un valor
 
 	puts "diego es igual a Andres" #dos iguales (==) comparara un valor
 end
+
 #Provocando un error
 puts "Ejecutando linea número 13"
 if "diego" == "Fuckencio"

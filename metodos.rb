@@ -1,7 +1,7 @@
 def saludar
 	puts "Que onda mi guero!"
 	if "Diego" == "Diego"
-		puts "Diego SÍ es iagual a Diego"
+		puts "Diego SÍ es igual a Diego"
 	else
 		puts "Diego No es igual a Diego"
 	end	
